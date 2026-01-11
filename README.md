@@ -3,3 +3,6 @@
 
 ## Table of Content
 
+ - Problem Statment
+ - Data Analysis with SQL
+ - Data Cleaning
